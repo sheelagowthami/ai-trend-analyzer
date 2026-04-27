@@ -1,5 +1,4 @@
 import nltk
-nltk.download('punkt')
 import streamlit as st
 from pytrends.request import TrendReq
 from textblob import TextBlob
