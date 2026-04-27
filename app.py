@@ -1,4 +1,3 @@
-import nltk
 import streamlit as st
 from pytrends.request import TrendReq
 from textblob import TextBlob
